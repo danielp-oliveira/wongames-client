@@ -2,5 +2,8 @@
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true
 }
